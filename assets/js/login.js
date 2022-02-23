@@ -87,7 +87,7 @@
 
                    //存储token的值
                    localStorage.setItem('token',res.token)
-            
+                  
                    //成功跳转到主页
                    location.href = '/index.html'
                }
